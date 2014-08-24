@@ -3,7 +3,7 @@ Diplomacy Adjudicator
 
 # Introduction
 
-The goal of this repository is to create a [DATC](http://web.inter.nl.net/users/L.B.Kruijswijk/)-compliant adjudicator in python.
+The goal of this repository is to create a [DATC-compliant](http://web.inter.nl.net/users/L.B.Kruijswijk/#2) adjudicator in python.
 
 The primary purpose of the adjudicator is to be incorporated in [this online diplomacy project](https://github.com/Blensink/Diplomacy), though the hope is that it will be general enough to be used in other projects as well.
 
