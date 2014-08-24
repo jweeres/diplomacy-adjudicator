@@ -9,7 +9,7 @@ The primary purpose of the adjudicator is to be incorporated in [this online dip
 
 # References
 
-This project is written in [Python 3.4](https://docs.python.org/3.4/).
+This project is written in [Python 3.4](https://docs.python.org/3.4/).  Coding conventions follow [the Python styleguide](http://legacy.python.org/dev/peps/pep-0008/).
 
 In accordance with DATC, the this project uses the [2000 rulebook](http://www.diplom.org/~diparch/resources/rulebooks/2000AH4th.pdf) as the base set of rules.
 
